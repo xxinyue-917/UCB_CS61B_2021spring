@@ -1,4 +1,4 @@
-public class exercise {
+public class exercise1a {
     public static void main(String[] args) {
         String x = "x";
         for (int i=1; i<=5; i++) {
